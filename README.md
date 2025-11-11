@@ -89,15 +89,17 @@ This project demonstrates proficiency in **end-to-end business intelligence work
 
 ## 📈 Sample Dashboard Preview
 
-> *(Insert a screenshot or GIF of your Power BI dashboard here)*
+![Bank Loan overview Dashboard Preview](/overview.png)
+![Bank Loan summary Dashboard Preview](/summary.png)
+
 
 ---
 
 ## 🧠 Author
 
-**[Your Name]**  
-📧 *your.email@example.com*  
-💼 [LinkedIn Profile](#) | [GitHub Profile](#)
+  Rahul Singh 
+📧 *rahulsingh11058@gmail.com*  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/contact-rahulsingh/) | [GitHub Profile](https://github.com/rahulcomputerscience)
 
 ---
 
