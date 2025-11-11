@@ -1,16 +1,16 @@
 # 🏦 Bank Loan Performance and Risk Analysis Report
 
-[🔗 **View Interactive Dashboard**](#) <!-- Replace # with your actual Power BI dashboard link -->
+[📊 **Download or View Excel Dashboard**](#) <!-- Replace # with your Excel file link or GitHub file path -->
 
 ---
 
 ## 📘 Project Overview
 
-This project focuses on creating a **comprehensive Bank Loan Report** to monitor and assess the bank's lending activities and portfolio performance.  
+This project focuses on creating a **comprehensive Bank Loan Report** to monitor and assess the bank’s lending activities and portfolio performance using **Microsoft Excel**.  
 
 By analyzing key loan-related metrics over time, the report enables **data-driven decision-making**, tracks the **overall health of the loan portfolio**, and identifies **critical trends** that inform future lending strategies and risk management.
 
-The final output is an **interactive dashboard built using Power BI**, designed for executive review and operational oversight.
+The final output is an **interactive Excel dashboard**, designed for executive review and operational oversight.
 
 ---
 
@@ -32,12 +32,12 @@ The report tracks the following essential metrics to measure lending activity an
 ## 📊 Rationale for Analysis
 
 Analyzing bank loan data is crucial for maintaining financial stability and maximizing profitability.  
-This report provides the necessary insights for:
+This Excel-based dashboard provides the necessary insights for:
 
 - **Risk Assessment:** Evaluating the probability of default for new and existing loans.  
 - **Decision-Making:** Setting appropriate interest rates, loan amounts, and approval criteria.  
 - **Portfolio Management:** Identifying segments with high risk or high performance for strategic adjustments.  
-- **Credit Risk Management:** Implementing models to minimize losses from non-performing loans.  
+- **Credit Risk Management:** Implementing data-driven strategies to minimize losses from non-performing loans.  
 - **Regulatory Compliance:** Ensuring adherence to financial regulations and reporting standards.  
 
 ---
@@ -71,25 +71,33 @@ The analysis is based on a dataset containing the following fields:
 
 ## 🛠️ Technology Stack
 
-**Tool:** Microsoft Power BI  
-**Purpose:** Data ingestion, cleaning, transformation (Power Query/DAX), and visualization development.
+**Tool:** Microsoft Excel  
+**Purpose:** Data cleaning, analysis, and interactive dashboard creation.
+
+### Key Excel Features Used:
+- **PivotTables & PivotCharts:** For summarizing and visualizing data dynamically.  
+- **Formulas & Functions:** Used for metric calculations (SUMIFS, AVERAGEIFS, COUNTIFS, IF, etc.).  
+- **Conditional Formatting:** To highlight loan performance trends and risk zones.  
+- **Slicers & Timelines:** Added for interactivity and easy data filtering.  
+- **Data Validation & Formatting:** Ensured data consistency and accuracy for analysis.
 
 ---
 
 ## ✨ Key Project Learnings & Skills
 
-This project demonstrates proficiency in **end-to-end business intelligence workflows**, including:
+This project demonstrates proficiency in **data analytics and visualization using Microsoft Excel**, including:
 
-- **Dashboard Development:** Created an interactive, user-friendly dashboard to track and analyze lending performance in real-time.  
-- **Data Modeling & Transformation (ETL):** Established connections, joined multiple data tables, and performed complex calculations (DAX/M) to derive key metrics.  
-- **Data Customization:** Implemented user-driven parameters, filters, and slicers to enable drill-down functionality within the analysis.  
-- **Visualization Diversity:** Utilized a variety of customized visualizations (bar, pie, donut, clustered, scatter, line, area charts, and maps) to present insights effectively.  
+- **Dashboard Design:** Developed an interactive, user-friendly Excel dashboard to monitor loan performance.  
+- **Data Analysis & Insights:** Applied statistical and logical formulas to extract meaningful insights.  
+- **Data Cleaning & Preparation:** Handled missing values, standardized data formats, and validated input data.  
+- **Dynamic Visualization:** Created charts (bar, pie, donut, clustered column, line, and area) to display KPIs effectively.  
+- **Automation Techniques:** Utilized Excel features like Named Ranges, Table References, and Dynamic Charts for automation.
 
 ---
 
 ## 📈 Sample Dashboard Preview
 
-![Bank Loan overview Dashboard Preview](/overview.png)
+> ![Bank Loan overview Dashboard Preview](/overview.png)
 ![Bank Loan summary Dashboard Preview](/summary.png)
 
 
@@ -103,4 +111,14 @@ This project demonstrates proficiency in **end-to-end business intelligence work
 
 ---
 
-⭐ *If you found this project insightful, don’t forget to star this repo!*
+
+
+
+
+
+
+
+
+
+
+
